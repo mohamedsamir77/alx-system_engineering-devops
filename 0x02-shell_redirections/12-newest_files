@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -s < ls -l
+ls | tail -n 10
