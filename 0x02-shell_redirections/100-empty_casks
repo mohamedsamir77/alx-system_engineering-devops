@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . -empty -print
+ls -Rl | awk '{print $1}'
