@@ -1,2 +1,2 @@
 #!/bin/bash
-sort user < ls user
+grep /home /etc/passwd | sort
