@@ -1,2 +1,2 @@
 #!/bin/bash
-cat del C,c | 20-hiago
+tr 'Cc' ''
