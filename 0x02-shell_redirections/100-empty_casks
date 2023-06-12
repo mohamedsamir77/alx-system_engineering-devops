@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Rl -empty | awk '{print $1}'
+find . -empty | awk '{print $1}'
