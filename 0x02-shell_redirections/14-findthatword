@@ -1,0 +1,2 @@
+#!/bin/bash
+cat -l < find "root" | cat /etc/passwd

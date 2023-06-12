@@ -1,0 +1,2 @@
+#!/bin/bash
+rep a,c z,e | ./19-AZ

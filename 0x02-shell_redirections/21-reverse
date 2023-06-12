@@ -1,0 +1,2 @@
+#!/bin/bash
+sort -m wc | cat 21-reverse
